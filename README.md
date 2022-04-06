@@ -17,7 +17,6 @@ de la base de datos. Esta es creada y configurada automáticamente al iniciar lo
         <li><a href="#instalación-y-ejecución-">Instalación y ejecución</a></li>
       </ul>
     </li>
-    <li><a href="#capturas-">Capturas</a></li>
     <li><a href="#construido-con-%EF%B8%8F">Construido con</a></li>
     <li><a href="#contacto-">Contacto</a></li>
   </ol>
