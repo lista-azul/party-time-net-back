@@ -32,7 +32,7 @@ _Para ejecutar este proyecto es necesario contar con [Docker](https://docs.docke
 
 1. Clonar el repositorio
    ```sh
-   git clone https://github.com/sosajseba/EventsApi.git
+   git clone https://github.com/lista-azul/party-time-net-back.git
    ```
 2. Configuracion   
 
